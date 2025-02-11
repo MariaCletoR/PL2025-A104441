@@ -1,14 +1,14 @@
 # TPC 1:: Somador On/Off em Python
 
-**Autor:** [Maria Cleto Rocha]  
-**Número:** [A104441]  
+**Autor:** Maria Cleto Rocha 
+**Número:** A104441
 
 ![Fotografia do Estudante em questao](mariafoto.jpeg)
 ---
 
 ## Introdução e descrição
 Este primeiro ficheiro foi criado e implementado no âmbito da Unidade Curricular de Processamento de Linguagens, onde o objetivo principal é introduzir um somador on/off criado num programa em Python.
-O mesmo implementa um somador que opera de acordo com um interruptor **On/Off**. O mesmo, processa e analisa um texto e soma todas as sequências de números encontradas no mesmo - **Apenas quando o estado do interruptor está ligado**.
+O mesmo implementa, como ja foi referido, um somador que opera de acordo com um interruptor **On/Off**. O programa processa e analisa um texto e soma todas as sequências de números encontradas no mesmo - **Apenas quando o estado do interruptor está ligado**.
 
 ---
 
@@ -20,7 +20,7 @@ O mesmo implementa um somador que opera de acordo com um interruptor **On/Off**.
 
 ---
 
-### **Arquitetura do programa**
+### **Arquitetura do Programa**
 - O programa percorre um **texto de entrada**, identificando números e comandos (`on`, `off`, `=`);
 - O mesmo usa um **booleano (`isON`)** de maneira a controlar quando os números estão, de facto, a ser somados;
 - Quando o comando `"="` é encontrado, o resultado da soma é impresso.
@@ -37,10 +37,10 @@ O mesmo implementa um somador que opera de acordo com um interruptor **On/Off**.
 
 ##  **Código fonte**
 É possível aceder ao código completo no seguinte repositório:  
-[🔗 Repositório GitHub](https://github.com/MariaCletoR/PL2025-A104441/blob/main/TPC1/somadoronoff.py)
+[🔗 somadoronoff.py](https://github.com/MariaCletoR/PL2025-A104441/blob/main/TPC1/somadoronoff.py)
 
-## **Como Executar**
-Para correr o programa, usa o seguinte comando no terminal:
+## **Execução**
+Para correr o programa, pode usar o seguinte comando no terminal e posteriormente fornecer um input desejado.
 
 ```sh
 python3 somador.py

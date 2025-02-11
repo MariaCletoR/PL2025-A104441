@@ -1,12 +1,12 @@
 # TPC 1:: Somador On/Off em Python
 
-**Autor:** Maria Cleto Rocha 
-**Número:** A104441
+**Autor:** [Maria Cleto Rocha]
+**Número:** [A104441]
 
 ![Fotografia do Estudante em questao](mariafoto.jpeg)
 ---
 
-## Introdução e descrição
+## Introdução e Descrição
 Este primeiro ficheiro foi criado e implementado no âmbito da Unidade Curricular de Processamento de Linguagens, onde o objetivo principal é introduzir um somador on/off criado num programa em Python.
 O mesmo implementa, como ja foi referido, um somador que opera de acordo com um interruptor **On/Off**. O programa processa e analisa um texto e soma todas as sequências de números encontradas no mesmo - **Apenas quando o estado do interruptor está ligado**.
 

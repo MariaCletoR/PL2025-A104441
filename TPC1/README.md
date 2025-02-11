@@ -1,9 +1,10 @@
-# TPC 1:: Somador On/Off em Python
+# TPC 1 - Somador On/Off em Python
 
 **Autor:** [Maria Cleto Rocha]
+
 **Número:** [A104441]
 
-![Fotografia do Estudante em questao](mariafoto.jpeg)
+![Fotografia do Estudante em questão](mariafoto.jpeg)
 ---
 
 ## Introdução e Descrição

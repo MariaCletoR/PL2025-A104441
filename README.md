@@ -7,3 +7,9 @@ Maria Cleto Rocha
 (A104441)
 
 ![mariafoto](https://github.com/user-attachments/assets/f61b04d8-4f40-48d7-b024-7aa42c478d6b)
+
+
+
+### **Referências**
+- [TPC1](./TPC1)
+- [TPC2](./TPC2)

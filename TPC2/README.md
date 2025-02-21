@@ -1,4 +1,4 @@
-# TPC 2 - Análise de um Dataset de Obras Musicais em Python
+# TPC 2 - Análise de um Dataset de Obras Musicais 
 
 **Autor:** [Maria Cleto Rocha]
 

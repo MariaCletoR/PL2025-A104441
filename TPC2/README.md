@@ -51,7 +51,7 @@ A aplicação lê os dados do ficheiro CSV sem recorrer ao módulo `csv` do Pyth
 
 ## Código Fonte
 O código completo pode ser encontrado no seguinte repositório (exemplo de link):
-[🔗 obras_musicais.py](https://github.com/seu-username/PL2025-A104441/blob/main/TPC2/obras_musicais.py)
+[🔗 obras_musicais.py](https://github.com/MariaCletoR/PL2025-A104441/blob/main/TPC2/obras_musicais.py)
 
 ---
 

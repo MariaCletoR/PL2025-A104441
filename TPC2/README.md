@@ -4,7 +4,7 @@
 
 **Número:** [A104441]
 
-![Fotografia do Estudante em questão](mariafoto.jpeg)
+![Fotografia do Estudante](mariafoto.jpeg)
 
 ---
 

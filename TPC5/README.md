@@ -8,7 +8,7 @@
 ---
 
 ## Introdução e Descrição
-Este ficheiro foi desenvolvido no âmbito da Unidade Curricular de **Processamento de Linguagens**. O objetivo é simular o funcionamento de uma máquina de vending, permitindo listar produtos, inserir moedas, selecionar produtos e receber troco.  
+Este 5º ficheiro foi desenvolvido no âmbito da Unidade Curricular de **Processamento de Linguagens**. O objetivo é simular o funcionamento de uma máquina de vending, permitindo listar produtos, inserir moedas, selecionar produtos e receber um troco.  
 A máquina mantém o estado do stock entre execuções, persistindo os dados num ficheiro `stock.json`. O código foca-se na simplicidade, eficiência e boa interação com o utilizador.
 
 ---

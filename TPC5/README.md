@@ -56,3 +56,15 @@ maq: Saldo = 50c
 >> SAIR
 maq: Pode retirar o troco: 1x 50c.
 maq: Até à próxima
+```
+## Código Fonte
+O código completo pode ser encontrado no seguinte repositório:  
+[🔗 analisadorlex.py](https://github.com/MariaCletoR/PL2025-A104441/blob/main/TPC5/maqvending.py)
+
+## Execução
+Para executar o analisador léxico, certifique-se de ter o Python 3 instalado e utilize o comando abaixo (garantindo que o script se encontra na mesma pasta):
+
+```sh
+python3 maqvending.py
+
+---

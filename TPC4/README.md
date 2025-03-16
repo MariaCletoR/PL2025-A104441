@@ -52,7 +52,7 @@ A aplicação utiliza expressões regulares para identificar e diferenciar eleme
 ---
 
 ## Código Fonte
-O código completo pode ser encontrado no seguinte repositório (exemplo de link):  
+O código completo pode ser encontrado no seguinte repositório:  
 [🔗 analisadorlex.py](https://github.com/MariaCletoR/PL2025-A104441/blob/main/TPC4/analisadorlex.py)
 
 ---

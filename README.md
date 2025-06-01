@@ -17,5 +17,5 @@ Maria Cleto Rocha
 - [TPC4](./TPC4)
 - [TPC5](./TPC5)
 - [TPC6](./TPC6)
-- [Compilador Pascal](./TProjeto_Compilador)
+- [Compilador Pascal](./Projeto_Compilador)
     
